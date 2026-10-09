@@ -1,0 +1,62 @@
+{
+  "operatory-treatment-room": {
+    "originalWidth": 1024,
+    "originalHeight": 418,
+    "sizes": {
+      "480": {
+        "width": 480,
+        "height": 196,
+        "avif": "operatory-treatment-room-480.avif",
+        "webp": "operatory-treatment-room-480.webp",
+        "jpg": "operatory-treatment-room-480.jpg"
+      },
+      "800": {
+        "width": 800,
+        "height": 327,
+        "avif": "operatory-treatment-room-800.avif",
+        "webp": "operatory-treatment-room-800.webp",
+        "jpg": "operatory-treatment-room-800.jpg"
+      }
+    }
+  },
+  "clinic-entrance-waiting": {
+    "originalWidth": 1024,
+    "originalHeight": 421,
+    "sizes": {
+      "480": {
+        "width": 480,
+        "height": 197,
+        "avif": "clinic-entrance-waiting-480.avif",
+        "webp": "clinic-entrance-waiting-480.webp",
+        "jpg": "clinic-entrance-waiting-480.jpg"
+      },
+      "800": {
+        "width": 800,
+        "height": 329,
+        "avif": "clinic-entrance-waiting-800.avif",
+        "webp": "clinic-entrance-waiting-800.webp",
+        "jpg": "clinic-entrance-waiting-800.jpg"
+      }
+    }
+  },
+  "reception-desk": {
+    "originalWidth": 1024,
+    "originalHeight": 416,
+    "sizes": {
+      "480": {
+        "width": 480,
+        "height": 195,
+        "avif": "reception-desk-480.avif",
+        "webp": "reception-desk-480.webp",
+        "jpg": "reception-desk-480.jpg"
+      },
+      "800": {
+        "width": 800,
+        "height": 325,
+        "avif": "reception-desk-800.avif",
+        "webp": "reception-desk-800.webp",
+        "jpg": "reception-desk-800.jpg"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Tooth Outer Contour -->
+  <path d="M 60 22 
+           C 74 15, 96 16, 102 36 
+           C 107 52, 98 68, 93 84 
+           C 89 96, 80 108, 69 107 
+           C 62 106, 61 93, 60 88 
+           C 59 93, 58 106, 51 107 
+           C 40 108, 31 96, 27 84 
+           C 22 68, 13 52, 18 36 
+           C 24 16, 46 15, 60 22 Z" 
+        fill="#FFFFFF" 
+        stroke="#3B7DD8" 
+        stroke-width="7" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+  <!-- Pink Smile Arc inside tooth -->
+  <path d="M 36 50
+           Q 60 76, 82 52
+           C 84 50, 87 49, 87 52
+           C 87 55, 83 58, 81 58" 
+        fill="none" 
+        stroke="#D93A78" 
+        stroke-width="7" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+</svg>
