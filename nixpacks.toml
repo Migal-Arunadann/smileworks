@@ -1,0 +1,3 @@
+# nixpacks.toml
+# Force Nixpacks to treat this repository as a static site and serve via NGINX
+providers = ["staticfile"]
