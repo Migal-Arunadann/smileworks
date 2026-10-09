@@ -2,10 +2,11 @@
   "name": "smileworks",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
+    "start": "npx -y serve -s . -l 80",
     "test": "node tests/test-preview.js",
-    "test:interactions": "node tests/test-interactions.js"
+    "test:interactions": "node tests/test-interactions.js",
+    "validate:assets": "node tests/validate-assets.js"
   },
   "keywords": [],
   "author": "",

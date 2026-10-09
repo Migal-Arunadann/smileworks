@@ -1,0 +1,8 @@
+.git
+.gitignore
+node_modules
+tests
+build-perfect-logo.js
+package.json
+package-lock.json
+*.md
