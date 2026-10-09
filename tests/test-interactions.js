@@ -35,8 +35,8 @@ const server = http.createServer((req, res) => {
   });
 });
 
-const PORT = 3500;
-server.listen(PORT, async () => {
+server.listen(0, async () => {
+  const PORT = server.address().port;
   console.log(`Test server running at http://localhost:${PORT}`);
 
   try {

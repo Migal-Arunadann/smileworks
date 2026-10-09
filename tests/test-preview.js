@@ -37,8 +37,8 @@ const server = http.createServer((req, res) => {
   });
 });
 
-const PORT = 3456;
-server.listen(PORT, async () => {
+server.listen(0, async () => {
+  const PORT = server.address().port;
   console.log(`Server listening on http://localhost:${PORT}`);
 
   try {
